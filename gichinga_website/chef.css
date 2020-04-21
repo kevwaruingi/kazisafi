@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+
+}
+header,
+section{
+    overflow-x: hidden;
+}
+
+:root {
+    --Snigle-font:""
+}
+
+
